@@ -1,2 +1,2 @@
-# deep-learning
+# Deep-Learning
 Deep Learning
